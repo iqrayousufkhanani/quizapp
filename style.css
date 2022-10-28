@@ -1,0 +1,26 @@
+.bgDark{
+    background-color: 540b0e;
+}
+.bgLight{
+    color: e09f3e;
+}
+.bg{
+    color:fff3b0;
+}
+#diplayResult{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.card {
+    background-color: white;
+    height: 20vh;
+    width: 20vw;
+}
